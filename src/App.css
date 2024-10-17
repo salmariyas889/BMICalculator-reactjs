@@ -1,0 +1,8 @@
+html,body{
+    height: 100%;
+    overflow-x: hidden; /* Prevent horizontal overflow */
+    overflow-y: auto;   /* Allow vertical scrolling */
+}
+.row{
+    min-height: 100%;
+}
